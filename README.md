@@ -14,8 +14,15 @@ This workflow starts with google scholar then uses octoparse to read through the
 Then the outputted CSV from octoparse is running the python script #scraper for SARS_CoV_2 Articles.py
 
 ## Test Files
-As you can see there are 3 different outputs 
+As you can see there are 3 different outputs.
 
+|Output | File name |
+|------|-------|
+|Subset of outputs of publications from high impact journal list|high_impact_journals|
+|Publications which have the keywords from the table below annotated | keyword_rows|
+|Both of the above parameters| highimpact_and_keyword|
+
+<sup> *each output has the data from the pull attached to it
 
 
 ### Keyword Groups
