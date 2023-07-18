@@ -10,6 +10,11 @@ This workflow was created to reduce the burden of flipping through google schola
 ## Octoparse
 This workflow starts with google scholar then uses octoparse to read through the google scholar page and pull the data. 
 
+<img width="232" alt="Octoparse Scraping Pipeline" src="https://github.com/acapria/SARS_CoV_2_article_scraping/assets/131828886/c6b65ab0-5319-4b35-ae8b-4d7330c6d2bf">
+
+Octoparse Scraping Pipeline
+
+
 ## File Manipulation
 Then the outputted CSV from octoparse is running the python script #scraper for SARS_CoV_2 Articles.py
 
