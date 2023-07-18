@@ -8,7 +8,7 @@ A workflow to pull articles weekly from Google Scholar about the SARS_CoV_2 pand
 This workflow was created to reduce the burden of flipping through google scholar pages for articles about SARS-CoV-2
 
 ## Octoparse
-This workflow starts with google scholar then uses octoparse to read through the google scholar page and pull the data. 
+This workflow starts with google scholar then uses octoparse to read through the google scholar page and pull the data. This workflow is stored in the OTD file.
 
 <img width="232" alt="Octoparse Scraping Pipeline" src="https://github.com/acapria/SARS_CoV_2_article_scraping/assets/131828886/c6b65ab0-5319-4b35-ae8b-4d7330c6d2bf">
 
