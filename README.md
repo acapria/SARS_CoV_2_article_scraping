@@ -1,7 +1,7 @@
 # SARS_CoV_2_article_scraping
 A workflow to pull articles weekly from Google Scholar about the SARS_CoV_2 pandemic. 
 
-![Google Scholar Search Sars-CoV-2 coronavirus and COVID-19](https://github.com/acapria/SARS_CoV_2_article_scraping/assets/131828886/ab9973de-0122-487f-b5fc-d718101322a4)
+![Google Scholar Search Sars-CoV-2 coronavirus and COVID-19](https://github.com/acapria/SARS_CoV_2_article_scraping/assets/131828886/ab974805-7fb0-4cfd-a114-2bb91ab2a794)
 
 
 
